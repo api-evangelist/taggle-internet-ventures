@@ -31,7 +31,7 @@ x-tier-reason: portfolio-lead
 x-status: closed
 x-status-note: 'Reported permanently closed; no live API surface. taggle.com is now an unrelated company
   (Taggle Systems, AU water metering) and is not this entity.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
