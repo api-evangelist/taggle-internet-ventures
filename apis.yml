@@ -39,7 +39,7 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
-x-status: closed
+x-status: defunct
 x-status-note: 'Reported permanently closed; no live API surface. taggle.com is now an unrelated company
   (Taggle Systems, AU water metering) and is not this entity.'
 specificationVersion: '0.23'
@@ -52,6 +52,7 @@ tags:
 - Daily Deals
 - E-Commerce
 - India
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
